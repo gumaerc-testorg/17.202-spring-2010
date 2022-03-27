@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6e62df1-3aed-eb47-7c02-c37c8691fe02
 resourcetype: Document
 title: Courts II
 uid: 60f84aa6-6715-77b7-4048-ee6ae218d4b1

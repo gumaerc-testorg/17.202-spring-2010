@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6e62df1-3aed-eb47-7c02-c37c8691fe02
 resourcetype: Document
 title: President II
 uid: 9b5848c6-ca84-6fcd-1c33-7fe7e5351fc7

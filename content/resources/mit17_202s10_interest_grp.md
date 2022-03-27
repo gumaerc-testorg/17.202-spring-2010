@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6e62df1-3aed-eb47-7c02-c37c8691fe02
 resourcetype: Document
 title: Interest Groups
 uid: 9e4cc772-ee1d-ebb0-2362-b0f1cf5ed788

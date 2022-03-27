@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 200e69b0-652f-f8c6-d7f4-9c4c0c835f89
 resourcetype: Document
 title: Comments on congressional readings
 uid: 57475652-76c3-811d-dbc1-6384ad4806cb

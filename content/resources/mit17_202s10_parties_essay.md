@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a6e62df1-3aed-eb47-7c02-c37c8691fe02
 resourcetype: Document
 title: Parties/Interest Groups
 uid: cfdf0608-354b-570a-b823-a398cb93559b
