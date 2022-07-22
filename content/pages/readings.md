@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section lists the readings associated with each session. Links are
+  provided to each citation whenever possible.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 200e69b0-652f-f8c6-d7f4-9c4c0c835f89
 ---
@@ -98,7 +103,7 @@ Congress: Party, polarization, and ideology
 {{< tdopen >}}
 
 
-Professor Stewart's comments on the readings for Ses #3. ([PDF]({{< baseurl >}}/resources/mit17_202s10_readcomses3))
+Professor Stewart's comments on the readings for Ses #3. ({{% resource_link 57475652-76c3-811d-dbc1-6384ad4806cb "PDF" %}})
 
 Krehbiel, Keith. _Pivotal Politics_. Chicago, IL: University of Chicago Press, 1998, chapters 1-6, 8. ISBN: 9780226452715.
 
@@ -122,7 +127,7 @@ President I
 
 Neustadt, Richard. _Presidential Power and the Modern Presidents: The Politics of Leadership from Roosevelt to Reagan_. New York, NY: Free Press, 1991, chapters 1-8. ISBN: 9780029227961.
 
-Moe, Terry M., and William G. Howell. "Unilateral Action and Presidential Power: A Theory." _Presidential Studies Quarterly_ 29, no. 4 (1999): 850-872. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://home.uchicago.edu/~whowell/papers/UnilateralAction.pdf))
+Moe, Terry M., and William G. Howell. "Unilateral Action and Presidential Power: A Theory." _Presidential Studies Quarterly_ 29, no. 4 (1999): 850-872. ([PDF](http://home.uchicago.edu/~whowell/papers/UnilateralAction.pdf))
 
 
 {{< tdclose >}}
@@ -166,7 +171,7 @@ Casper, Jonathan. "[The Supreme Court and National Policy Making](http://www.jst
 
 Rosenberg, Gerald. _The Hollow Hope: Can Courts Bring About Social Change?_ Chicago. IL: University of Chicago Press, 2008, chapter 1, part I. ISBN: 9780226726717.
 
-Whittington, Keith. "'Interpose Your Friendly Hand': Political Supports for the Exercise of Judicial Review by the United States Supreme Court." _American Political Science Review_ 99 (2005): 7583-596. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://scholar.princeton.edu/kewhitt/publications/interpose-your-friendly-hand-political-supports-exercise-judicial-review-united))
+Whittington, Keith. "'Interpose Your Friendly Hand': Political Supports for the Exercise of Judicial Review by the United States Supreme Court." _American Political Science Review_ 99 (2005): 7583-596. ([PDF](https://scholar.princeton.edu/kewhitt/publications/interpose-your-friendly-hand-political-supports-exercise-judicial-review-united))
 
 
 {{< tdclose >}}
@@ -210,7 +215,7 @@ Niskanen, William. _Bureaucracy and Representative Democracy_. Chicago, IL: Aldi
 
 Moe, Terry M. "[Control and Feedback in Economic Regulation: The Case of the NLRB](http://www.jstor.org/stable/1956250)." _American Political Science Review_ 79, no 4 (1985): 1094-1116.
 
-Allison, Graham T. "Conceptual Models and the Cuban Missile Crisis." _American Political Science Review_ 63, no 4 (1969): 689-718. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB](http://www3.nccu.edu.tw/~lorenzo/Allison%20Conceptual%20Models.pdf))
+Allison, Graham T. "Conceptual Models and the Cuban Missile Crisis." _American Political Science Review_ 63, no 4 (1969): 689-718. ([PDF - 1.6MB](http://www3.nccu.edu.tw/~lorenzo/Allison%20Conceptual%20Models.pdf))
 
 Mc Cubbins, Mathew, Roger Noll, and Barry Weingast. "[Administrative Procedures as Instruments of Political Control](http://www.jstor.org/stable/764829)." _Journal of Law, Economics and Organization_ 3, no. 2 (1987): 243-77.
 
