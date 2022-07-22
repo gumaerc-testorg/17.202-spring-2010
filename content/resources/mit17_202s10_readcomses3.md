@@ -7,6 +7,7 @@ file: /courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/57475
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Comments on congressional readings
 uid: 57475652-76c3-811d-dbc1-6384ad4806cb
 ---
 Comments from the course professor on the role of parties in Congress, the use of the spatial model in theory-building and prediction-making, and the problem of measurement in congressional scholarship.
-

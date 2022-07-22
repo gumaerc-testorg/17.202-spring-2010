@@ -7,6 +7,7 @@ file: /courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/c1375
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Presidency
 uid: c1375c26-4824-b70c-c0d6-21173e008c33
 ---
 Example student essay for an assignment to take a week's readings and pose a general exam-like question that pertains to the reading and then write an answer to the question.
-
