@@ -4,6 +4,7 @@ description: Example student essay for an assignment to take a week's readings a
   pose a general exam-like question that pertains to the reading and then write an
   answer to the question.
 file: /courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/c1375c264824b70cc0d621173e008c33_MIT17_202S10_Presidency_es.pdf
+file_size: 105406
 file_type: application/pdf
 learning_resource_types:
 - Assignments

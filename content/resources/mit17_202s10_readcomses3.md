@@ -4,6 +4,7 @@ description: Comments from the course professor on the role of parties in Congre
   the use of the spatial model in theory-building and prediction-making, and the problem
   of measurement in congressional scholarship.
 file: /courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/5747565276c3811ddbc16384ad4806cb_MIT17_202S10_readcomses3.pdf
+file_size: 89890
 file_type: application/pdf
 learning_resource_types:
 - Readings
