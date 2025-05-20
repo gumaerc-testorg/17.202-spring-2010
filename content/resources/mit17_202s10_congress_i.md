@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of a student's weekly one-page memo for the course.
-file: /ol-ocw-studio-app/courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/1155cc0fe197967f1f6499c4015dfca8_MIT17_202S10_Congress_I.pdf
+file: /courses/17-202-graduate-seminar-in-american-politics-ii-spring-2010/1155cc0fe197967f1f6499c4015dfca8_MIT17_202S10_Congress_I.pdf
 file_size: 67083
 file_type: application/pdf
 learning_resource_types:
